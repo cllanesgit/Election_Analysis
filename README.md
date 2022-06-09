@@ -1,4 +1,4 @@
-# Election__Analysis
+# Election_Analysis
 
 In this analysis, we looked for general voting statistics of every county and candidate as well as the winning candidate and highest turnover county. Here are some important points to note about the election data:
 * There were a total of 369,711 votes casted
